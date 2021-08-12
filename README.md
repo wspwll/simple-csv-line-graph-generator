@@ -20,4 +20,3 @@ g.createGraph()
 Feel free to email me at wspwll@gmail.com with any questions or feedback.
 
 *Peace, love, & happiness*
-Wes
